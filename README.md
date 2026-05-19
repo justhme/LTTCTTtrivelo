@@ -41,3 +41,26 @@ Câu 37: Khả năng chuyển đổi kỳ hạn của ngân hàng có thể hi�
 Câu 38: Dự trữ thứ cấp (dự trữ cấp 2) trong bảng cân đối kế toán rút gọn của các Ngân hàng thương mại là : - Chứng khoán của chính phủ 
 Câu 39: Nếu GDP danh nghĩa năm 2001 là 9 nghìn tỷ đô la, và GDP thực tế năm 2001 giá là 6 nghìn tỷ đô la, chỉ số điều chỉnh GDP (GDP Deflator) là: -150
 Câu 40: Khi tỷ giá giao dịch giữa đồng Việt Nam và Đô la Mỹ thay đổi từ 22.000 VNĐ đổi 1 USD thành 21.000 VNĐ đổi 1 USD, điều này nghĩa là: - VNĐ tăng giá trị, USD giảm giá trị 
+* Giá ngoại tệ ↑ / giá nội tệ ↓ → hàng nội rẻ hơn → XK ↑ → cầu nội tệ ↑ → tỷ giá ↑
+* Giá nội tệ ↑ / giá ngoại tệ ↓ → hàng ngoại rẻ hơn → NK ↑ → cung nội tệ ↑ → tỷ giá ↓
+* Thuế NK ↑ / hạn ngạch ↓ → NK ↓ → cung nội tệ ↓ → tỷ giá ↑
+* Thuế NK ↓ / hạn ngạch ↑ → NK ↑ → cung nội tệ ↑ → tỷ giá ↓
+* Thích hàng ngoại → NK ↑ → cung nội tệ ↑ → tỷ giá ↓
+* Người nước ngoài thích hàng nội → XK ↑ → cầu nội tệ ↑ → tỷ giá ↑
+* NSLĐ nước ngoài ↑ → hàng NK rẻ → NK ↑ → tỷ giá ↓
+* NSLĐ trong nước ↑ → XK ↑ → tỷ giá ↑
+* RF > RD → mua ngoại tệ → cung nội tệ ↑ → tỷ giá ↓
+* RF < RD → mua nội tệ → cầu nội tệ ↑ → tỷ giá ↑
+* if ↑ → RF ↑ → tỷ giá ↓ ; if ↓ → RF ↓ → tỷ giá ↑
+* E(t+1) ↑ → RF ↓ → tỷ giá ↑ ; E(t+1) ↓ → RF ↑ → tỷ giá ↓
+* RD ↑ → tỷ giá ↑ ; RD ↓ → tỷ giá ↓
+* LP dự tính ↑ → RF ↑ mạnh hơn RD → tỷ giá ↓
+* LP dự tính ↓ → RF ↓ mạnh hơn RD → tỷ giá ↑
+* Can thiệp vô hiệu: có OMO trung hòa → cung tiền không đổi
+* Can thiệp hữu hiệu: làm cung tiền đổi
+* Cung tiền ↑ → RD ↓ + RF ↑ → tỷ giá NH ↓ ; dài hạn lãi suất ↑ → tỷ giá ↑
+* Cung tiền ↓ → RD ↑ + RF ↓ → tỷ giá NH ↑ ; dài hạn lãi suất ↓ → tỷ giá ↓
+* Cán cân thanh toán: dòng tiền vào Có(+), ra Nợ(-)
+* Gồm: vãng lai + vốn + tài chính
+* Thặng dư/thâm hụt đều ảnh hưởng tỷ giá
+* Tài trợ cán cân → điều chỉnh về cân bằng 0
